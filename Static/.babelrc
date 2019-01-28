@@ -1,0 +1,6 @@
+{
+    //babel配置，将es6编译为es2015
+    "presets": ["es2015", "stage-0"],   //预先设置，es2015 ，stage2-0 
+    "comments": false
+  }
+  
